@@ -1,5 +1,4 @@
 -- THIS IS NOT MINE! --
--- this is the esp used in my roblox khols admin house script called cxmds --
 
 local Holder = Instance.new("Folder", game.CoreGui)
 Holder.Name = "ESP"
